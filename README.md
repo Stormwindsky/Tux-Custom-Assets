@@ -1,2 +1,2 @@
-# Tux-Custom-Assets
+# Tux Custom Assets
 Original Tux mascot created by Larry Ewing using The GIMP.
