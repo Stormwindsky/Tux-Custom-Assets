@@ -20,7 +20,7 @@ Original Tux mascot created by Larry Ewing using The GIMP.
 
 https://github.com/garrett/Tux
 
-### Archive of the origin of the Mascot Tux:
+### Archive of the origin of the Mascot of Linux named... Tux:
 
 https://web.archive.org/web/20161109151500/http://isc.tamu.edu/~lewing/linux/index.html/
 
